@@ -40,8 +40,13 @@ st.markdown(
 
     /* Video uploader styling */
     .stFileUploader label {
-        color: #004080;
+        color: black;
         font-weight: bold;
+    }
+
+    /* Subheader and other text styling */
+    .stMarkdown h2, .stMarkdown h3, .stMarkdown h4 {
+        color: black;
     }
     </style>
     """,
