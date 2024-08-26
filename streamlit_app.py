@@ -48,6 +48,15 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# Header with logos
+st.markdown(
+    """
+    <div class="header">
+        <h1>Video Uploader</h1>
+    </div>""",
+        unsafe_allow_html=True
+)
+
 # Main Page Content
 st.title("Advanced AI Check")
 
