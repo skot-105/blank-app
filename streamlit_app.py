@@ -1,10 +1,10 @@
-import streamlit as st
+Iimport streamlit as st
 
 # Page configuration
 st.set_page_config(page_title="Video Annotation App", layout="wide")
 
 # Main Page Content
-st.title("Video Uploader")
+st.title("Advanced AI Check")
 
 # Single video uploader
 st.subheader("Upload Video")
