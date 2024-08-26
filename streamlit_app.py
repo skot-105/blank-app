@@ -58,7 +58,11 @@ st.markdown(
     """
     <div class="header">
         <h1>Video Uploader</h1>
-    </div>""",
+    </div>
+    <div class="logo-container">
+        <img src="https://myraatechnologies.com/images/new-font-logo.png" alt="Myraa Technologies">
+    </div>
+    """,
         unsafe_allow_html=True
 )
 
