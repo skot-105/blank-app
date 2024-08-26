@@ -1,4 +1,4 @@
-Iimport streamlit as st
+import streamlit as st
 
 # Page configuration
 st.set_page_config(page_title="Video Annotation App", layout="wide")
